@@ -32,7 +32,7 @@
             <a class="btn btn-sm btn-warning" href="{% url 'login' %}">Login</a> &nbsp;
             <a class="btn btn-sm btn-outline-secondary" href="{% url 'register' %}">Register</a>
             {% else %}
-            <span>Hello <b>{{user}}</b></span>
+            <span>Hello <b>{{user.first_name}}</b></span>
             <span class="m-2"><a href="{% url 'dashboard' %}">Dashboard</a></span>
             <span class="btn btn-danger"><a href="{% url 'logout' %}" class="text-white">Logout</a></span>
             {% endif %}

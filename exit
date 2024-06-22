@@ -1,0 +1,41 @@
+[33mcommit d36764cf7cb7a1320090dd4a1a3706430c6758e5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Sat Jun 22 01:08:43 2024 -0700
+
+    posts CRUD opeations
+
+[33mcommit 15d9e00c3e009b606d32339e208272b8d2107168[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Wed Jun 19 21:22:26 2024 -0700
+
+    category crud functionality
+
+[33mcommit 9c79a7c3a119c7e65731709af5be6af08b98cb8c[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Tue Jun 18 01:21:57 2024 -0700
+
+    Registration and Login functionality
+
+[33mcommit 8ae77332d52c8d77f3672639be3b2e1530a9554e[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Mon Jun 17 02:06:57 2024 -0700
+
+    Blogs and Search functionality
+
+[33mcommit 023440b63643a5c89853b5cb87a3dff99a18fba5[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Sat Jun 15 13:44:18 2024 -0700
+
+    posts by category
+
+[33mcommit 696e38776f2f515c10bc38bc3f31412def09aaee[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Thu Jun 13 02:56:43 2024 -0700
+
+    blogs app and blog model
+
+[33mcommit 1fe95043ebaacc02807cb3ffe4ed4cd6e5e0f348[m
+Author: Sergiu <nixigg@gmail.com>
+Date:   Thu Jun 13 01:08:04 2024 -0700
+
+    Initialized news blog and created home page
